@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    A: ,
+    B: ,
+    C: ,
+    D: ,
+    E: ,
+
+    N: ,
+    O:
+    P: ,
+    Q:
+    R: ,
+    S: ,
+    T: ,
+    U:
+    V:
+    W: ,
+    X:
+    Y:
+    Z:
+    <string-array name="words">
+        <item>Assassins Creed</item>
+        <item>Apex Legends</item>
+        <item>Battlefield</item>
+        <item>Bioshock</item>
+        <item>Call of Duty</item>
+        <item>Counter-Strike</item>
+        <item>Diablo</item>
+        <item>Doom</item>
+        <item>Elder Scrolls</item>
+        <item>Escape from Tarkov</item>
+        <item>Fallout</item>
+        <item>Far Cry</item>
+        <item>God of War</item>
+        <item>Grand Theft Auto</item>
+        <item>Halo</item>
+        <item>Hitman</item>
+        <item>Injustice</item>
+        <item>Infamous</item>
+        <item>Just Dance</item>
+        <item>Journey</item>
+        <item>Kingdom Hearts</item>
+        <item>Killing Floor</item>
+        <item>League of Legends</item>
+        <item>Legend of Zelda</item>
+        <item>Minecraft</item>
+        <item>Mass Effect</item>
+        <item>Need for Speed</item>
+        <item>NieR: Automata</item>
+        <item>Overwatch</item>
+        <item>PUBG</item>
+        <item>Persona</item>
+        <item>Quake</item>
+        <item>Resident Evil</item>
+        <item>Red Dead Redemption</item>
+        <item>Super Mario</item>
+        <item>Skyrim</item>
+        <item>The Witcher</item>
+        <item>Tomb Raider</item>
+        <item>Undertale</item>
+        <item>Valorant</item>
+        <item>World of Warcraft</item>
+        <item>Warframe</item>
+        <item>Xenoblade Chronicles</item>
+        <item>Yakuza</item>
+        <item>Zelda</item>
+    </string-array>
+
+</resources>
